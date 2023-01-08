@@ -97,6 +97,7 @@ nav li{
 
 .botao:hover{
 	background: #557534;
+	cursor; pointer;
 }
 
 .botao:active{
